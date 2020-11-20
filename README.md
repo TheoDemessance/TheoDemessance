@@ -1,26 +1,12 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Théo](https://www.linkedin.com/in/theo-demessance/), a Franco-Chinese IT student studying at [ESILV](https://www.esilv.fr/en/) and at [Tianjin University](http://www.tju.edu.cn/english/index.htm), where I had the chance to spend 1 year, loved it !
+
+I'm [Théo](https://www.linkedin.com/in/theo-demessance/), a Franco-Chinese IT student studying at [ESILV](https://www.esilv.fr/en/) and at [Tianjin University](http://www.tju.edu.cn/english/index.htm) in a Software Engineering double-master degree partnership.
 
 <br />
 
-<img alt = "GIF" align = "left" src="https://github.com/TheoDemessance/TheoDemessance/blob/main/code.gif?raw=true" width = "300px"/>
+<img alt = "GIF" align = "right" src="https://github.com/TheoDemessance/TheoDemessance/blob/main/code.gif?raw=true" width = "250px"/>
 
-I have specialised in data sciences 📊, I have also written a research paper on the study and prediction of tourist behaviour.
+I have specialised in data sciences 📊, and I do have a passion for learning and sharing my knowledge with others a public as possible. 
 
-
-
-<!--
-**TheoDemessance/TheoDemessance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can contact me by email at<a href="mailto:theo.demessance@sfr.fr">theo.demessance@sfr.fr</a>, or connect with me on LinkedIn ! 
