@@ -3,7 +3,6 @@
 
 I'm [Théo](https://www.linkedin.com/in/theo-demessance/), a Franco-Chinese IT student studying at [ESILV](https://www.esilv.fr/en/) and at [Tianjin University](http://www.tju.edu.cn/english/index.htm) in a Software Engineering double-master degree partnership.
 
-<br />
 
 <img alt = "GIF" align = "right" src="https://github.com/TheoDemessance/TheoDemessance/blob/main/code.gif?raw=true" width = "225px"/>
 
