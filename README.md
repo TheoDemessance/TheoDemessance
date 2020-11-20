@@ -2,9 +2,13 @@
 
 I'm [Théo](https://www.linkedin.com/in/theo-demessance/), a Franco-Chinese IT student studying at [ESILV](https://www.esilv.fr/en/) and at [Tianjin University](http://www.tju.edu.cn/english/index.htm), where I had the chance to spend 1 year, loved it !
 
-<img align="right" alt="GIF" src="" width="500" height="320" />
-<br> <br>
-Specialising in Data Sciences 📊, I wrote a research paper on the study and prediction of tourist behaviours. 
+<br />
+
+<img alt = "GIF" align = "left" src="https://github.com/TheoDemessance/TheoDemessance/blob/main/code.gif?raw=true" width = "300px"/>
+
+I have specialised in data sciences 📊, I have also written a research paper on the study and prediction of tourist behaviour.
+
+
 
 <!--
 **TheoDemessance/TheoDemessance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
