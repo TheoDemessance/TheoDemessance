@@ -13,3 +13,6 @@ You can contact me by email at <a href="mailto:theo.demessance@sfr.fr">theo.deme
 <q>
   There is an easy way and a hard way. The hard part is finding the easy way. </q> 🎯
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoDemessance&layout=compact)](https://github.com/TheoDemessance/github-readme-stats)
+
+  
